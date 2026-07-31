@@ -2,7 +2,7 @@
 
 Welcome to the source code for Pau Muan Tung Hatlang's personal portfolio website: a cinematic, responsive showcase for AI/ML projects, technical capabilities, and contact information.
 
-**Live Demo:** [Insert Live Demo Link Here]
+**Live Demo:** https://muanpi.vercel.app/
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-149eca?logo=react&logoColor=white)](https://react.dev/)

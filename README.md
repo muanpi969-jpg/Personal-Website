@@ -80,9 +80,8 @@ The portfolio does not currently require environment variables. The contact form
 
 ## Contact
 
-- **LinkedIn:** [Insert LinkedIn Link Here]
-- **GitHub:** [Insert GitHub Link Here]
-- **Email:** [Insert Email Address Here]
+- **LinkedIn:** https://www.linkedin.com/in/pau-muan-tung-hatlang-a55968343/
+- **Email:** muanpi969@gmail.com
 
 ## Project Structure
 
